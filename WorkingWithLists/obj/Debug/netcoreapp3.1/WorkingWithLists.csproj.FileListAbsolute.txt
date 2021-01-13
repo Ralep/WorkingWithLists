@@ -1,0 +1,13 @@
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csprojAssemblyReference.cache
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfoInputs.cache
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.AssemblyInfo.cs
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.csproj.CoreCompileInputs.cache
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.exe
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.deps.json
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.json
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.runtimeconfig.dev.json
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\bin\Debug\netcoreapp3.1\WorkingWithLists.pdb
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.dll
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.pdb
+C:\Users\Harald\Documents\GitHub\WorkingWithLists\WorkingWithLists\obj\Debug\netcoreapp3.1\WorkingWithLists.genruntimeconfig.cache
